@@ -1,9 +1,0 @@
-@font-face {
-font-family: "TunnelFront ";
-src: url("TunnelFront .eot") format("eot"); /* IE9 Compat Modes */
-src: url("TunnelFront .eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-     url("TunnelFront .woff") format("woff"), /* Modern Browsers */
-     url("TunnelFront .ttf") format("truetype"); /* Safari, Android, iOS */
-font-weight: normal;
-font-style: normal;
-}
